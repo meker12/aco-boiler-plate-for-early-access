@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1CVnonQD-9an7B2fKN6pCmsGWQbOOO4Da/:f:r/sites/aco-boiler-plate-for-early-access
+  /: https://drive.google.com/drive/u/0/folders/1CVnonQD-9an7B2fKN6pCmsGWQbOOO4Da
 
 folders:
   /products/: /products/default
