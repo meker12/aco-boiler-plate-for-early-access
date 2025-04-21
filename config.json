@@ -6,9 +6,10 @@
       "headers": {
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "ac-channel-id": "b4caeea1-a8c1-45d5-906f-89618653250e",
           "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
           "ac-scope-locale": "en-US",
-          "ac-price-book-id": "west_coast_inc"
+          "ac-price-book-id": "east_coast_inc"
         }
       },
       "analytics": {
