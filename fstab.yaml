@@ -1,5 +1,7 @@
 mountpoints:
-  /: https://example.mountpoint.com/:f:/r/sites/myproject
+  /:
+    url: https://drive.google.com/drive/u/0/folders/1VWUhYRjoVQ7M2nJJjUe1CFFrN7VsgIGX/:f:r/sites/aco-boilerplate-for-early-access
+    type: markup
 
 folders:
   /products/: /products/default
